@@ -86,17 +86,6 @@ streamlit run attack_app.py
 streamlit run defense_app.py
 ```
 
----
-
-## 📸 Screenshots
-
-*Add screenshots here before submission:*
-
-* Attack Interface
-* Defense Interface
-* Logs Output
-
----
 
 ## ⚠️ Notes
 
@@ -128,13 +117,3 @@ streamlit run defense_app.py
 This project is based on **Cyber Range as a Service (CRaaS)**, where simulated cyber environments are used for training and testing without impacting real systems.
 
 ---
-
-## 👨‍💻 Author
-
-* Your Name
-
----
-
-## ⭐ License
-
-This project is for educational purposes only.
